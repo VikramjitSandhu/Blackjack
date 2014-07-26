@@ -1,5 +1,5 @@
 /**
-    Card.cpp
+    Card.cpp Github
     Purpose: Represents an object of type card (e.g. 2 of Hearts, King of Clubs etc.) in a deck of cards
 
     @author Vikramjit Sandhu
