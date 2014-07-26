@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1405728810 source:d:\academic\insight_adv\blackjack\hand.cpp
+	"Hand.h"
+
+1405728791 d:\academic\insight_adv\blackjack\hand.h
+	"Card.h"
+
+1405720237 d:\academic\insight_adv\blackjack\card.h
+	<iostream>
+
+1405731374 source:d:\academic\insight_adv\blackjack\player.cpp
+	"Player.h"
+
+1405731358 d:\academic\insight_adv\blackjack\player.h
+	"Card.h"
+	"Hand.h"
+
+1405726649 source:d:\academic\insight_adv\blackjack\dealer.cpp
+	"Dealer.h"
+
+1405728355 d:\academic\insight_adv\blackjack\dealer.h
+	"Card.h"
+	"DeckOfCards.h"
+
+1405721766 d:\academic\insight_adv\blackjack\deckofcards.h
+	<cstdlib>
+	<time.h>
+
+1405722344 source:d:\academic\insight_adv\blackjack\deckofcards.cpp
+	"Card.h"
+	"DeckOfCards.h"
+
+1405758164 source:d:\academic\insight_adv\blackjack\game.cpp
+	"Card.h"
+	"DeckOfCards.h"
+	"Player.h"
+	"Dealer.h"
+
+1405720303 source:d:\academic\insight_adv\blackjack\card.cpp
+	"Card.h"
+
+1405720303 source:d:\academic\insight_adv\vikramjitsandhu_blackjack\blackjack\card.cpp
+	"Card.h"
+
+1405720237 d:\academic\insight_adv\vikramjitsandhu_blackjack\blackjack\card.h
+	<iostream>
+
+1405726649 source:d:\academic\insight_adv\vikramjitsandhu_blackjack\blackjack\dealer.cpp
+	"Dealer.h"
+
+1405870159 d:\academic\insight_adv\vikramjitsandhu_blackjack\blackjack\dealer.h
+	"Card.h"
+	"DeckOfCards.h"
+
+1405721766 d:\academic\insight_adv\vikramjitsandhu_blackjack\blackjack\deckofcards.h
+	<cstdlib>
+	<time.h>
+
+1405722344 source:d:\academic\insight_adv\vikramjitsandhu_blackjack\blackjack\deckofcards.cpp
+	"Card.h"
+	"DeckOfCards.h"
+
+1405728810 source:d:\academic\insight_adv\vikramjitsandhu_blackjack\blackjack\hand.cpp
+	"Hand.h"
+
+1405870379 d:\academic\insight_adv\vikramjitsandhu_blackjack\blackjack\hand.h
+	"Card.h"
+
+1405731374 source:d:\academic\insight_adv\vikramjitsandhu_blackjack\blackjack\player.cpp
+	"Player.h"
+
+1405870484 d:\academic\insight_adv\vikramjitsandhu_blackjack\blackjack\player.h
+	"Card.h"
+	"Hand.h"
+
+1405870263 source:d:\academic\insight_adv\vikramjitsandhu_blackjack\blackjack\game.cpp
+	"Card.h"
+	"DeckOfCards.h"
+	"Player.h"
+	"Dealer.h"
+
